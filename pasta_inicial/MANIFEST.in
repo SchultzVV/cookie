@@ -1,2 +1,0 @@
-include *.txt
-recursive-include package_name *.md
