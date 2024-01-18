@@ -1,0 +1,12 @@
+# Removendo notebooks
+.ipynb_checkpoints/
+*.ipynb
+# Exceção para a pasta notebooks
+!cookie/cutter/notebooks/*.ipynb
+
+# Pycache
+__pycache__/
+
+# arquivos gerados pelo vscoe
+.vscode/
+.pytest_cache/
